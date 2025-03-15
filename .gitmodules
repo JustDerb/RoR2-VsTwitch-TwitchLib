@@ -1,18 +1,18 @@
 [submodule "TwitchLib.PubSub"]
 	path = TwitchLib.PubSub
-	url = https://github.com/TwitchLib/TwitchLib.PubSub
+	url = https://github.com/JustDerb/RoR2-VsTwitch-TwitchLib.PubSub.git
 [submodule "TwitchLib.Client"]
 	path = TwitchLib.Client
-	url = https://github.com/TwitchLib/TwitchLib.Client
+	url = https://github.com/JustDerb/RoR2-VsTwitch-TwitchLib.Client.git
 [submodule "TwitchLib.Api"]
 	path = TwitchLib.Api
-	url = https://github.com/TwitchLib/TwitchLib.Api
+	url = https://github.com/JustDerb/RoR2-VsTwitch-TwitchLib.Api.git
 [submodule "TwitchLib.WebSocket"]
 	path = TwitchLib.WebSocket
 	url = https://github.com/TwitchLib/TwitchLib.WebSocket
 [submodule "TwitchLib.EventSub.Websockets"]
 	path = TwitchLib.EventSub.Websockets
-	url = https://github.com/TwitchLib/TwitchLib.EventSub.Websockets.git
+	url = https://github.com/JustDerb/RoR2-VsTwitch-TwitchLib.EventSub.Websockets.git
 [submodule "TwitchLib.Api/"]
 	branch = dev
 [submodule "TwitchLib.Client/"]
@@ -23,10 +23,10 @@
 	branch = dev
 [submodule "TwitchLib.Unity"]
 	path = TwitchLib.Unity
-	url = git@github.com:TwitchLib/TwitchLib.Unity.git
+	url = https://github.com/JustDerb/RoR2-VsTwitch-TwitchLib.Unity.git
 [submodule "TwitchLib.Communication"]
 	path = TwitchLib.Communication
-	url = git@github.com:TwitchLib/TwitchLib.Communication.git
+	url = https://github.com/JustDerb/RoR2-VsTwitch-TwitchLib.Communication.git
 [submodule "TwitchLib.EventSub.Core"]
 	path = TwitchLib.EventSub.Core
-	url = https://github.com/TwitchLib/TwitchLib.EventSub.Core.git
+	url = https://github.com/JustDerb/RoR2-VsTwitch-TwitchLib.EventSub.Core.git
