@@ -13,3 +13,20 @@
 [submodule "TwitchLib.EventSub.Websockets"]
 	path = TwitchLib.EventSub.Websockets
 	url = https://github.com/TwitchLib/TwitchLib.EventSub.Websockets.git
+[submodule "TwitchLib.Api/"]
+	branch = dev
+[submodule "TwitchLib.Client/"]
+	branch = dev
+[submodule "TwitchLib.EventSub.Websockets/"]
+	branch = dev
+[submodule "TwitchLib.PubSub/"]
+	branch = dev
+[submodule "TwitchLib.Unity"]
+	path = TwitchLib.Unity
+	url = git@github.com:TwitchLib/TwitchLib.Unity.git
+[submodule "TwitchLib.Communication"]
+	path = TwitchLib.Communication
+	url = git@github.com:TwitchLib/TwitchLib.Communication.git
+[submodule "TwitchLib.EventSub.Core"]
+	path = TwitchLib.EventSub.Core
+	url = https://github.com/TwitchLib/TwitchLib.EventSub.Core.git
